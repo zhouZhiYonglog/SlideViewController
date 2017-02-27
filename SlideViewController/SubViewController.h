@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SubViewController.h
 //  SlideViewController
 //
 //  Created by 周智勇 on 17/2/27.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SubViewController : UIViewController
 
 @end
-
